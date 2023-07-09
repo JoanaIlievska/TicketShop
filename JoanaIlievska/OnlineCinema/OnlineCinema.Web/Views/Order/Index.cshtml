@@ -1,0 +1,38 @@
+﻿@model List<OnlineCinema.Domain.DomainModels.Order>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<h1 style="font-family: 'Times New Roman', serif;"> Мои нарачки </h1>
+<hr />
+<table class="col-12">
+    <thead class="bg-danger">
+        <tr>
+            <th class="text-white" style="font-family: 'Times New Roman', serif;">ID на нарачка</th>
+            <th></th>
+            <th class="text-white" style="font-family: 'Times New Roman', serif;">ID на најавен корисник</th>
+            <th></th>
+            <th></th>
+
+            <th class="text-white" style="font-family: 'Times New Roman', serif;">Детали</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var order in Model)
+        {
+            <tr>
+                <td style="font-family: 'Times New Roman', serif;" >@order.Id</td>
+                <th></th>
+                <td style="font-family: 'Times New Roman', serif;" >@order.UserId</td>
+                <td></td>
+                 <td></td>
+
+                <td><a class="btn btn-outline-secondary" asp-action="Details" asp-route-id="@order.Id" style="font-family: 'Times New Roman', serif;">Детали</a></td>
+
+            </tr>
+        }
+    </tbody>
+</table>

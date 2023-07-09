@@ -1,0 +1,16 @@
+C:\Users\Lenovo\Desktop\JoanaIlievska\OnlineCinema\OnlineCinema.Repository\bin\Debug\netcoreapp3.1\OnlineCinema.Repository.deps.json
+C:\Users\Lenovo\Desktop\JoanaIlievska\OnlineCinema\OnlineCinema.Repository\bin\Debug\netcoreapp3.1\OnlineCinema.Repository.dll
+C:\Users\Lenovo\Desktop\JoanaIlievska\OnlineCinema\OnlineCinema.Repository\bin\Debug\netcoreapp3.1\OnlineCinema.Repository.pdb
+C:\Users\Lenovo\Desktop\JoanaIlievska\OnlineCinema\OnlineCinema.Repository\bin\Debug\netcoreapp3.1\OnlineCinema.Domain.dll
+C:\Users\Lenovo\Desktop\JoanaIlievska\OnlineCinema\OnlineCinema.Repository\bin\Debug\netcoreapp3.1\OnlineCinema.Domain.pdb
+C:\Users\Lenovo\Desktop\JoanaIlievska\OnlineCinema\OnlineCinema.Repository\obj\Debug\netcoreapp3.1\OnlineCinema.Repository.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\JoanaIlievska\OnlineCinema\OnlineCinema.Repository\obj\Debug\netcoreapp3.1\OnlineCinema.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\JoanaIlievska\OnlineCinema\OnlineCinema.Repository\obj\Debug\netcoreapp3.1\OnlineCinema.Repository.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\JoanaIlievska\OnlineCinema\OnlineCinema.Repository\obj\Debug\netcoreapp3.1\OnlineCinema.Repository.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\JoanaIlievska\OnlineCinema\OnlineCinema.Repository\obj\Debug\netcoreapp3.1\OnlineCinema.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\JoanaIlievska\OnlineCinema\OnlineCinema.Repository\obj\Debug\netcoreapp3.1\OnlineCinema.Repository.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\JoanaIlievska\OnlineCinema\OnlineCinema.Repository\obj\Debug\netcoreapp3.1\OnlineCinema.Repository.dll
+C:\Users\Lenovo\Desktop\JoanaIlievska\OnlineCinema\OnlineCinema.Repository\obj\Debug\netcoreapp3.1\OnlineCinema.Repository.pdb
+C:\Users\Lenovo\Desktop\JoanaIlievska\OnlineCinema\OnlineCinema.Repository\bin\Debug\netcoreapp3.1\OnlineCinema.Repository.runtimeconfig.json
+C:\Users\Lenovo\Desktop\JoanaIlievska\OnlineCinema\OnlineCinema.Repository\bin\Debug\netcoreapp3.1\OnlineCinema.Repository.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\JoanaIlievska\OnlineCinema\OnlineCinema.Repository\obj\Debug\netcoreapp3.1\OnlineCinema.Repository.genruntimeconfig.cache

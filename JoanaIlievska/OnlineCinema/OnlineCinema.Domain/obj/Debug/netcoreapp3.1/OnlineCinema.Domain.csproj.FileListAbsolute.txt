@@ -1,0 +1,10 @@
+C:\Users\Lenovo\Desktop\JoanaIlievska\OnlineCinema\OnlineCinema.Domain\bin\Debug\netcoreapp3.1\OnlineCinema.Domain.deps.json
+C:\Users\Lenovo\Desktop\JoanaIlievska\OnlineCinema\OnlineCinema.Domain\bin\Debug\netcoreapp3.1\OnlineCinema.Domain.dll
+C:\Users\Lenovo\Desktop\JoanaIlievska\OnlineCinema\OnlineCinema.Domain\bin\Debug\netcoreapp3.1\OnlineCinema.Domain.pdb
+C:\Users\Lenovo\Desktop\JoanaIlievska\OnlineCinema\OnlineCinema.Domain\obj\Debug\netcoreapp3.1\OnlineCinema.Domain.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\JoanaIlievska\OnlineCinema\OnlineCinema.Domain\obj\Debug\netcoreapp3.1\OnlineCinema.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\JoanaIlievska\OnlineCinema\OnlineCinema.Domain\obj\Debug\netcoreapp3.1\OnlineCinema.Domain.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\JoanaIlievska\OnlineCinema\OnlineCinema.Domain\obj\Debug\netcoreapp3.1\OnlineCinema.Domain.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\JoanaIlievska\OnlineCinema\OnlineCinema.Domain\obj\Debug\netcoreapp3.1\OnlineCinema.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\JoanaIlievska\OnlineCinema\OnlineCinema.Domain\obj\Debug\netcoreapp3.1\OnlineCinema.Domain.dll
+C:\Users\Lenovo\Desktop\JoanaIlievska\OnlineCinema\OnlineCinema.Domain\obj\Debug\netcoreapp3.1\OnlineCinema.Domain.pdb

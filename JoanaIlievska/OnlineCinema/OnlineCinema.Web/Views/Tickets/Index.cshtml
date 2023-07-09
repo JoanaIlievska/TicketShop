@@ -1,0 +1,53 @@
+﻿@model List<OnlineCinema.Domain.DomainModels.Ticket>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+
+
+<div class="container">
+    <div class="row">
+        <a class="btn btn-success" asp-action="Create" style="font-family: 'Times New Roman', serif;">Додади нов продукт</a>
+    </div>
+    
+       @for (int i = 0; i < Model.Count; i++)
+       {
+           var item = Model[i];
+
+           if(i % 4 == 0)
+           {
+               @:<div class="row">
+           }
+
+        <div class="col-md-3 m-4">
+            <div class="card" style="width: 18rem; height: 40rem;">
+                <img class="card-img-top" src="@item.ProductImage" style="height: 50%;" alt="Image for product!">
+
+                <div class="card-body">
+                    <h3 class="card-title"style="font-family: 'Times New Roman', serif;"> Филм : @item.ProductName</h3>
+                    <p class="card-text"style="font-family: 'Times New Roman', serif;"> Краток опис: @item.ProductDescription</p>
+                    <p class="card-text"style="font-family: 'Times New Roman', serif;"> Време на проекција: @item.movietime</p>
+
+                    
+                    
+                    <h6 style="font-family: 'Times New Roman', serif;">Цена: @item.ProductPrice ден.</h6>
+                </div>
+
+                <div class="card-footer">
+                    <a asp-controller="Tickets" asp-action="AddToShoppingCart" asp-route-id="@item.Id" class="btn btn-success"style="font-family: 'Times New Roman', serif;">Додади во кошница</a>
+                    <a asp-controller="Tickets" asp-action="Edit" asp-route-id="@item.Id" class="btn btn-secondary"style="font-family: 'Times New Roman', serif;">Измени</a>
+                </div>
+            </div>
+        </div>
+
+
+           if(i % 3 == 2)
+           {
+               @:</div>
+               <br />
+           }
+       }
+</div>
